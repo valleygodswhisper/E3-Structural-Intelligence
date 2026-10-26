@@ -1,3 +1,12 @@
+We are actively seeking researchers and engineers to experimentally investigate the E³ framework.
+
+Open research directions include Logical State Stack (LSS), Cumulative Tension (CT), Protective Value (PV), AHP-guided Decision-Sufficient Abstraction, and Topology-Constrained Agent supervision.
+
+[Join the Research Collaboration Discussion](https://github.com/valleygodswhisper/Quantification-over-Structure-An-Entropy-Driven-Self-Iterative-Architecture-for-LLMs/issues)
+
+Contributions are welcome in theoretical modeling, PyTorch implementation, benchmark design, reproducible experiments, and critical evaluation.
+
+Our goal is to turn the proposed architecture into measurable, testable, and collaboratively developed AI research.
 # Quantification over Structure: An Entropy-Driven Self-Iterative Architecture for LLMs
 # Introduction：
 #   Research into AGI should not attempt to transplant explicit structures from human knowledge into LLMs as-is; rather, it should seek quantifiable meta-factors that remain stable across structures, tasks, and domains, and use these meta-factors to build dynamic, self-monitoring, self-regulating, and self-iterating systems.
